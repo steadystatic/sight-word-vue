@@ -1,6 +1,6 @@
 # getskittles
 
-> Sight word recognition for my kiddo, he gets a skittle if right
+> Simple demo sight word recognition Vue JS app
 
 ## Build Setup
 
